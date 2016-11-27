@@ -1,6 +1,11 @@
 # YolHaritasi
 Kurabiye Beyinli sirketi icin yol haritasi ve beyin firtinasi
 
+## Ne-Neden ?
+Su anlik Turkce olmak uzere, bazi dillerde Computer Science ile alakali (ozellikle online) kaynak yetersizligi dolayisiyla hazirlamaya basladigimiz bir proje. **"Neden Computer Science ogrenmeliyiz?"** den, **"Nasil ogrenecegiz?"** e kadar, konu anlatimlari ve kurs yapilanmasi icinde devam edecegiz. 7 den 70 e her yasa hitap etmeyi planliyoruz. 
+
+Daha sonra baska diller de eklenebilir.
+
 ## Icerik
 
 ### Kurs 0 : Giris
